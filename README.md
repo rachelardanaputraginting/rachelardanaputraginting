@@ -39,8 +39,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rachel-ardana-putra-ginting-659967248/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rachel-ardana-putra-ginting-659967248/#gh-dark-mode-only)
@@ -51,7 +51,9 @@
 
 
 [webdev]: https://github.com/rachelardanaputraginting/rachelardanaputraginting
-
+<br />
+<br />
+## Github:
 
 <p align="center">
 <a href="https://github.com/rachelardanaputraginting">
