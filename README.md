@@ -9,12 +9,12 @@
 
 ## Education:
 
-#### 1. [Politeknik Negeri Lhokseumawe](https://www.pnl.ac.id) | Bachelor of Information Technology And Computers | Yogyakarta `2016-2020`
+#### 1. [Politeknik Negeri Lhokseumawe](https://www.pnl.ac.id) | Bachelor of Information Technology And Computers | Lhokseumawe `2022-NOW`
    
 #### 2. [SMK Negeri 2 Langsa](https://www.smkn2langsa.sch.id/) | Software Engineering | Langsa `2019-2021`
 
 ## Work Experience:
-#### 1. [Kejaksaan Negeri Langsa](https://kejari-langsa.kejaksaan.go.id/) | Operaator | Langsa `Februari' 2021 - 'April` 2021
+#### 1. [Kejaksaan Negeri Langsa](https://kejari-langsa.kejaksaan.go.id/) | Operator | Langsa `Februari 2021 - April 2021`
 ---
 
 ### Languages and Tools:
