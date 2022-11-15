@@ -42,11 +42,14 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rachel-ardana-putra-ginting-659967248/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rachel-ardana-putra-ginting-659967248/#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/rachlapg_#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/rachlapg_#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rachlapg_#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rachlapg_#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rachelardanaputraginting#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rachelardanaputraginting#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/rachlapg_#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/rachlapg_#gh-dark-mode-only)
 
 
 
