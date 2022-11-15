@@ -1,4 +1,4 @@
-# Hi there, I'm Rachel Ardana Putra Ginting - RAPG [rajartan](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A) 👋
+# Hi there, I'm Rachel Ardana Putra Ginting - RAPG 👋
 ## About me:
 - 🔭 I’m currently working a Web Developer & UIX Designer
 - 🌱 I’m currently learning PHP & Javascript
@@ -6,13 +6,6 @@
 - 🤔 I’m looking for suggest for Artificial Intelligence and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: rachelardanaputraginting@gmail.com
-
-<p align="center">
-<a href="https://github.com/rachelardanaputraginting">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachelardanaputraginting&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachelardanaputraginting&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ## Education:
 
@@ -27,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Bootstrap" width="30px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Tailwindcss" width="30px" src="https://repository-images.githubusercontent.com/428336167/4f69f56f-6659-4daf-a422-9f35f5cf0a07" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
@@ -58,3 +51,11 @@
 
 
 [webdev]: https://github.com/rachelardanaputraginting/rachelardanaputraginting
+
+
+<p align="center">
+<a href="https://github.com/rachelardanaputraginting">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachelardanaputraginting&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachelardanaputraginting&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
