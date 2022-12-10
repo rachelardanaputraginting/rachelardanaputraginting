@@ -15,6 +15,7 @@
 
 ## Work Experience:
 #### 1. [Kejaksaan Negeri Langsa](https://kejari-langsa.kejaksaan.go.id/) | Operator | Langsa `Februari 2021 - April 2021`
+#### 2. [Sari Roti Aceh Utara](https://sarirotiacehutara.co.id/) | Web Developer | Aceh Utara `November 2022 - Sekarang`
 ---
 
 ### Languages and Tools:
