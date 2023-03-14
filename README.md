@@ -1,6 +1,6 @@
 # Hi there, I'm Rachel Ardana Putra Ginting - RAPG 👋
 ## About me:
-- 🔭 I’m currently working a Web Developer & UIX Designer
+- 🔭 I’m currently working a Junior Web Developer
 - 🌱 I’m currently learning PHP & Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Artificial Intelligence and Data Analyst
