@@ -19,7 +19,7 @@
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ci,ts,java,react,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow)](https://skillicons.dev)
 
 
 
@@ -29,18 +29,9 @@
 ---
 ### Connect with me:
 
-[![website](./youtube-light.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-light-mode-only)
-[![website](./youtube-dark.svg)](https://www.youtube.com/channel/UC376ksreGSG9zxiSEdWk18A#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=ig)](https://www.instagram.com/rachlapg_)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rachelardanaputraginting/)
 &nbsp;&nbsp;
-[![website](./twitter-light.svg)](https://twitter.com/rachlapg_#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/rachlapg_#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://www.linkedin.com/in/rachelardanaputraginting#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/rachelardanaputraginting#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/rachlapg_#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/rachlapg_#gh-dark-mode-only)
-
 
 
 [webdev]: https://github.com/rachelardanaputraginting/rachelardanaputraginting
