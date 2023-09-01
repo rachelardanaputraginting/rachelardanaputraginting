@@ -19,7 +19,7 @@
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ci,ts,java,react,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ts,java,react,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow)](https://skillicons.dev)
 
 
 
@@ -29,7 +29,7 @@
 ---
 ### Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=ig)](https://www.instagram.com/rachlapg_)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rachlapg_)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rachelardanaputraginting/)
 &nbsp;&nbsp;
 
