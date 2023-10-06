@@ -7,6 +7,10 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: rachelardanaputraginting@gmail.com
 
+<br />
+I have succeeded in obtaining a BNSP certificate in the field of Junior Web Developer through the LSP Digital Medan agency on September 15, 2023
+<br />
+
 ## Education:
 
 #### 1. [Politeknik Negeri Lhokseumawe](https://www.pnl.ac.id) | Bachelor of Information Technology And Computers | Lhokseumawe `2022-NOW`
