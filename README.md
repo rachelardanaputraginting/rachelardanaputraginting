@@ -7,12 +7,10 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: rachelardanaputraginting@gmail.com
 
-<br />
-I have succeeded in obtaining a BNSP certificate in the field of Junior Web Developer through the LSP Digital Medan agency on September 15, 2023
-<br />
+## Sertification:
+#### 1. [BNSP | Lembaga Sertifikasi Profesi](https://bnsp.go.id/lsp) | Junior Web Developer | Yogyakarta `September 2023 - September 2026`
 
 ## Education:
-
 #### 1. [Politeknik Negeri Lhokseumawe](https://www.pnl.ac.id) | Bachelor of Information Technology And Computers | Lhokseumawe `2022-NOW`
 #### 2. [Univesitas Gadjah Mada](https://ugm.ac.id) | Computer Science | Yogyakarta `2023-2023`
 #### 2. [SMK Negeri 2 Langsa](https://www.smkn2langsa.sch.id) | Software Engineering | Langsa `2019-2021`
@@ -32,7 +30,6 @@ I have succeeded in obtaining a BNSP certificate in the field of Junior Web Deve
 
 ---
 ### Connect with me:
-
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rachlapg_)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rachelardanaputraginting/)
 &nbsp;&nbsp;
