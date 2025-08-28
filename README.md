@@ -1,48 +1,49 @@
-# Hi there, I'm Rachel Ardana Putra Ginting - RAPG 👋
-## About me:
-- 🔭 I’m currently working a Junior Web Developer
-- 🌱 I’m currently learning PHP & Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Artificial Intelligence and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: rachelardanaputraginting@gmail.com
+# Rachel Ardana Putra Ginting  
 
-## Sertification:
-#### 1. [BNSP | Lembaga Sertifikasi Profesi](https://bnsp.go.id/lsp) | Junior Web Developer | Yogyakarta `September 2023 - September 2026`
-
-## Education:
-#### 1. [Politeknik Negeri Lhokseumawe](https://www.pnl.ac.id) | Bachelor of Information Technology And Computers | Lhokseumawe `2022-NOW`
-#### 2. [Univesitas Gadjah Mada](https://ugm.ac.id) | Computer Science | Yogyakarta `2023-2023`
-#### 2. [SMK Negeri 2 Langsa](https://www.smkn2langsa.sch.id) | Software Engineering | Langsa `2019-2021`
-
-## Work Experience:
-#### 1. [Kejaksaan Negeri Langsa](https://kejari-langsa.kejaksaan.go.id/) | Operator | Langsa `Februari 2021 - April 2021`
-#### 2. [Sari Roti Aceh Utara](https://sarirotiacehutara.co.id/) | Web Developer | Aceh Utara `November 2022 - Sekarang`
----
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ts,java,react,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow)](https://skillicons.dev)
-
-
-
-<br />
-<br />
+Founder @ [TreatStart](https://treatstart.com) • Junior Web Developer  
 
 ---
-### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rachlapg_)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rachelardanaputraginting/)
-&nbsp;&nbsp;
 
+## About  
+I build digital products with a focus on **clean design, performance, and scalability**.  
+Currently learning **PHP**, **JavaScript**, and exploring **AI & Data Analytics**.  
 
-[webdev]: https://github.com/rachelardanaputraginting/rachelardanaputraginting
-<br />
-<br />
-## Github:
+---
 
+## Experience  
+- **Web Developer** — [Sari Roti Aceh Utara](https://sarirotiacehutara.co.id/) (2022 – Present)  
+- **Operator** — [Kejaksaan Negeri Langsa](https://kejari-langsa.kejaksaan.go.id/) (2021)  
+
+---
+
+## Education  
+- **Politeknik Negeri Lhokseumawe** — Information Technology & Computers (2022 – Now)  
+- **Universitas Gadjah Mada** — Computer Science (2023)  
+- **SMK Negeri 2 Langsa** — Software Engineering (2019 – 2021)  
+
+---
+
+## Certification  
+- **Junior Web Developer** — [BNSP | Lembaga Sertifikasi Profesi](https://bnsp.go.id/lsp) (2023 – 2026)  
+
+---
+
+## Languages & Tools  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ts,java,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow)](https://skillicons.dev)  
+
+---
+
+## Contact  
+- 📧 rachelardanaputraginting@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/rachelardanaputraginting/)  
+- [Instagram](https://www.instagram.com/rachlapg_)  
+
+---
+
+## GitHub Stats  
 <p align="center">
-<a href="https://github.com/rachelardanaputraginting">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rachelardanaputraginting&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rachelardanaputraginting&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/rachelardanaputraginting">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rachelardanaputraginting&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelardanaputraginting&layout=compact&theme=transparent&hide_border=true"/>
+  </a>
 </p>
