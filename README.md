@@ -13,19 +13,18 @@ I also built **TreatStart**, an IT startup & education initiative that emphasize
 ---
 
 ## Highlights  
-- **3+ Years** of experience  
-- **12+ Completed projects**  
-- **10+ Satisfied customers**  
+
+### **3+** Years of Experience  
+### **12+** Completed Projects  
+### **10+** Satisfied Customers  
 
 ---
 
 ## 🛠 Tools That I Have Used  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,laravel,nextjs,react,ts,nodejs,express,py,js,php,html,css,tailwind,bootstrap,kotlin,pwa,pusher,git,vercel,github,netlify,tensorflow,gcp&perline=10" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flask,laravel,nextjs,react,ts,nodejs,express,py,js,php,html,css,tailwind,bootstrap,kotlin,pwa,pusher,git,vercel,github,netlify,tensorflow,gcp&perline=12" />
+</a>
 
 ---
 
@@ -38,8 +37,6 @@ I assist **brands, companies, institutions, and startups** in creating exception
 I'm open for **freelance projects**.  
 Feel free to email me and see how we can collaborate.  
 
-<p align="left">
-  <a href="mailto:rachelardanaputraginting@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-  <a href="https://www.linkedin.com/in/rachelardanaputraginting/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="https://www.instagram.com/rachlapg_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a>
-</p>
+<a href="mailto:rachelardanaputraginting@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+<a href="https://www.linkedin.com/in/rachelardanaputraginting/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+<a href="https://www.instagram.com/rachlapg_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a>
