@@ -1,56 +1,45 @@
-# Rachel Ardana Putra Ginting  
-
-![Founder](https://img.shields.io/badge/Founder-TreatStart-blue?style=for-the-badge&logo=vercel&logoColor=white)  
-![Role](https://img.shields.io/badge/Junior%20Web%20Developer-green?style=for-the-badge&logo=github&logoColor=white)  
+# Hi, I'm Rachel Ardana Putra Ginting 👋  
+Based in **Aceh, Indonesia** • Working remotely  
 
 ---
 
-## About  
-I build digital products with a focus on **clean design, performance, and scalability**.  
-Currently learning **PHP**, **JavaScript**, and exploring **AI & Data Analytics**.  
+## About Me  
+Experienced as a **Software Engineer** with expertise in **JavaScript**, **PHP**, and modern frameworks such as **React.js, Next.js, Laravel, Express.js, and Flask**.  
+Skilled in building web applications based on **MySQL, Firebase, and MongoDB**.  
+Currently focusing on **Cloud Computing** through **Bangkit Academy**.  
+
+I also built **TreatStart**, an IT startup & education initiative that emphasizes maintaining health amidst busy work.  
 
 ---
 
-## Experience  
-- ![Web Developer](https://img.shields.io/badge/Web%20Developer-Sari%20Roti%20Aceh%20Utara-blue?style=for-the-badge&logo=php&logoColor=white) (2022 – Present)  
-- ![Operator](https://img.shields.io/badge/Operator-Kejaksaan%20Negeri%20Langsa-orange?style=for-the-badge&logo=google&logoColor=white) (2021)  
+## Highlights  
+- **3+ Years** of experience  
+- **12+ Completed projects**  
+- **10+ Satisfied customers**  
 
 ---
 
-## Education  
-- ![PNL](https://img.shields.io/badge/Politeknik%20Negeri%20Lhokseumawe-IT%20%26%20Computers-blue?style=for-the-badge&logo=gradle&logoColor=white) (2022 – Now)  
-- ![UGM](https://img.shields.io/badge/Universitas%20Gadjah%20Mada-Computer%20Science-purple?style=for-the-badge&logo=google-scholar&logoColor=white) (2023)  
-- ![SMKN2](https://img.shields.io/badge/SMKN%202%20Langsa-Software%20Engineering-lightgrey?style=for-the-badge&logo=google-classroom&logoColor=black) (2019 – 2021)  
+## 🛠 Tools That I Have Used  
 
----
-
-## Certification  
-- ![BNSP](https://img.shields.io/badge/Junior%20Web%20Developer-BNSP-yellow?style=for-the-badge&logo=certificate&logoColor=black) (2023 – 2026)  
-
----
-
-## Languages & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,php,laravel,jquery,nodejs,react,vue,ts,java,py,cpp,r,powershell,linux,postman,mysql,git,github,vscode,figma,stackoverflow&perline=10" />
+    <img src="https://skillicons.dev/icons?i=flask,laravel,nextjs,react,ts,nodejs,express,py,js,php,html,css,tailwind,bootstrap,kotlin,pwa,pusher,git,vercel,github,netlify,tensorflow,gcp&perline=10" />
   </a>
 </p>
 
 ---
 
-## Contact  
+## 💼 What I've Been Working On  
+I assist **brands, companies, institutions, and startups** in creating exceptional digital experiences for their businesses through **strategic development services**.  
+
+---
+
+## 🤝 Let's Collaborate  
+I'm open for **freelance projects**.  
+Feel free to email me and see how we can collaborate.  
+
 <p align="left">
-  <a href="mailto:rachelardanaputraginting@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rachelardanaputraginting/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/rachlapg_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-## GitHub Stats  
-<p align="center">
-  <a href="https://github.com/rachelardanaputraginting">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rachelardanaputraginting&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelardanaputraginting&layout=compact&theme=transparent&hide_border=true"/>
-  </a>
+  <a href="mailto:rachelardanaputraginting@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+  <a href="https://www.linkedin.com/in/rachelardanaputraginting/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+  <a href="https://www.instagram.com/rachlapg_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a>
 </p>
