@@ -1,7 +1,7 @@
 # Rachel Ardana Putra Ginting  
 
-![Founder](https://img.shields.io/badge/Founder-TreatStart-blue?style=flat-square&logo=vercel)  
-![Role](https://img.shields.io/badge/Junior%20Web%20Developer-green?style=flat-square&logo=github)  
+![Founder](https://img.shields.io/badge/Founder-TreatStart-blue?style=for-the-badge&logo=vercel&logoColor=white)  
+![Role](https://img.shields.io/badge/Junior%20Web%20Developer-green?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -12,20 +12,20 @@ Currently learning **PHP**, **JavaScript**, and exploring **AI & Data Analytics*
 ---
 
 ## Experience  
-- ![Web Developer](https://img.shields.io/badge/Web%20Developer-Sari%20Roti%20Aceh%20Utara-blue?style=flat-square&logo=php) (2022 – Present)  
-- ![Operator](https://img.shields.io/badge/Operator-Kejaksaan%20Negeri%20Langsa-orange?style=flat-square&logo=gov) (2021)  
+- ![Web Developer](https://img.shields.io/badge/Web%20Developer-Sari%20Roti%20Aceh%20Utara-blue?style=for-the-badge&logo=php&logoColor=white) (2022 – Present)  
+- ![Operator](https://img.shields.io/badge/Operator-Kejaksaan%20Negeri%20Langsa-orange?style=for-the-badge&logo=google&logoColor=white) (2021)  
 
 ---
 
 ## Education  
-- ![PNL](https://img.shields.io/badge/Politeknik%20Negeri%20Lhokseumawe-IT%20&%20Computers-blue?style=flat-square&logo=graduated) (2022 – Now)  
-- ![UGM](https://img.shields.io/badge/Universitas%20Gadjah%20Mada-Computer%20Science-purple?style=flat-square&logo=google-scholar) (2023)  
-- ![SMKN 2 Langsa](https://img.shields.io/badge/SMKN%202%20Langsa-Software%20Engineering-lightgrey?style=flat-square&logo=school) (2019 – 2021)  
+- ![PNL](https://img.shields.io/badge/Politeknik%20Negeri%20Lhokseumawe-IT%20%26%20Computers-blue?style=for-the-badge&logo=gradle&logoColor=white) (2022 – Now)  
+- ![UGM](https://img.shields.io/badge/Universitas%20Gadjah%20Mada-Computer%20Science-purple?style=for-the-badge&logo=google-scholar&logoColor=white) (2023)  
+- ![SMKN2](https://img.shields.io/badge/SMKN%202%20Langsa-Software%20Engineering-lightgrey?style=for-the-badge&logo=google-classroom&logoColor=black) (2019 – 2021)  
 
 ---
 
 ## Certification  
-- ![BNSP](https://img.shields.io/badge/Junior%20Web%20Developer-BNSP%20LSP-yellow?style=flat-square&logo=certificate) (2023 – 2026)  
+- ![BNSP](https://img.shields.io/badge/Junior%20Web%20Developer-BNSP-yellow?style=for-the-badge&logo=certificate&logoColor=black) (2023 – 2026)  
 
 ---
 
