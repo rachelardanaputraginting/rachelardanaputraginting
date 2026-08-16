@@ -1,39 +1,55 @@
-# Hi, I'm Rachel Ardana Putra Ginting  
-Based in **Aceh, Indonesia** • Working remotely  
+## Rachel Ardana Putra Ginting
 
----
+**Backend-focused Software Engineer** · Langsa, Aceh, Indonesia 🇮🇩
 
-## About Me  
-Experienced as a **Software Engineer** with expertise in **JavaScript**, **PHP**, and modern frameworks such as **React.js, Next.js, Laravel, Express.js, and Flask**.  
-Skilled in building web applications using **MySQL, Firebase, and MongoDB**.  
-Currently focused on **Cloud Computing** through **Bangkit Academy**.  
+I build systems people depend on throughout their working day - the kind that fail loudly when they're wrong.
 
-I also founded **TreatStart**, an IT startup emphasizing the importance of maintaining health amidst busy work.  
+Currently **Project Lead** of an Electronic Medical Record system running in production across **7 clinical units** at RSUD Langsa, coordinating 8+ developers. I also run **[NanoNusa Digital](https://nanonusa.com)**, a software studio I founded.
 
----
+&nbsp;
 
-## Highlights  
+### What I'm working on
 
-### **3+** Years of Experience  
-### **12+** Completed Projects  
-### **10+** Satisfied Customers  
+- Leading high-risk clinical modules through safe migration, with documented rollout and rollback plans
+- Moving a legacy codebase from ad-hoc queries to a structured service layer
+- Building **NanoNusa Digital** on the side
+- Learning **Go** - currently working through its concurrency model and standard library
 
----
+&nbsp;
 
-## Tools That I Have Used  
+### Selected work
 
-[![Skills](https://skillicons.dev/icons?i=flask,laravel,nextjs,react,ts,nodejs,express,py,js,php,html,css,tailwind,bootstrap,kotlin,pwa,pusher,git,vercel,github,netlify,tensorflow,gcp&perline=12)](https://skillicons.dev)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[RSUD Langsa EMR](https://rachel.nanonusa.com/en/projects/rme-rsud-langsa)** | Electronic Medical Record replacing a paper archive across 7 clinical units | Laravel · SQL Server |
+| **[E-Loen](https://rachel.nanonusa.com/en/projects/e-loen-smk-negeri-1-lhoksukon)** | School LMS with semester-scoped academic context and multi-role permissions | Laravel · Inertia · React |
+| **[SunCare Assistant](https://rachel.nanonusa.com/en/projects/suncare-assistant)** | UV-exposure companion with location-aware alerts | Next.js · Supabase · Twilio |
+| **[SIAPPINTAR](https://rachel.nanonusa.com/en/projects/siappintar-bp2mi-application)** | Pre-departure orientation system for Indonesian migrant workers (BP2MI × UGM) | Laravel · React |
 
----
+More at **[rachel.nanonusa.com](https://rachel.nanonusa.com)**
 
-## What I've Been Working On  
-I assist **brands, companies, institutions, and startups** in creating exceptional digital experiences through **strategic development services**.  
+&nbsp;
 
----
+### Tools I work with
 
-## Let’s Collaborate  
-I'm open to **freelance projects**—feel free to reach out via any of the platforms below:
+[![Skills](https://skillicons.dev/icons?i=laravel,php,mysql,postgres,redis,docker,linux,ts,nextjs,react,tailwind,nodejs,express,py,go,git,github,gcp,vercel&perline=10)](https://skillicons.dev)
+
+&nbsp;
+
+### Background
+
+- **Bachelor of Applied Informatics Engineering** - Politeknik Negeri Lhokseumawe (GPA 3.98 / 4.00)
+- **Student Exchange, Computer Science** - Universitas Gadjah Mada
+- **Cloud Computing** - Bangkit Academy, led by Google, GoTo & Traveloka
+- **Junior Web Programmer** - certified by BNSP
+- 3rd Place, National Innovation Technology 2025 · Finalist KMIPN 5 & 6
+
+&nbsp;
+
+### Let's talk
+
+I'm open to backend engineering roles and selected freelance work.
 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rachelardanaputraginting@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rachelardanaputraginting/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rachlapg_)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rachlapg/)
