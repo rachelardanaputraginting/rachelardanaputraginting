@@ -38,7 +38,7 @@ More at **[rachel.nanonusa.com](https://rachel.nanonusa.com)**
 
 ### Background
 
-- **Bachelor of Applied Informatics Engineering** - Politeknik Negeri Lhokseumawe (GPA 3.98 / 4.00)
+- **Bachelor of Applied Informatics Engineering** - Politeknik Negeri Lhokseumawe (GPA 3.97 / 4.00)
 - **Student Exchange, Computer Science** - Universitas Gadjah Mada
 - **Cloud Computing** - Bangkit Academy, led by Google, GoTo & Traveloka
 - **Junior Web Programmer** - certified by BNSP
