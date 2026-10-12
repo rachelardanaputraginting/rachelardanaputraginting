@@ -4,7 +4,7 @@
 
 I build systems people depend on throughout their working day - the kind that fail loudly when they're wrong.
 
-Currently **Project Lead** of an Electronic Medical Record system running in production across **7 clinical units** at RSUD Langsa, coordinating 8+ developers. I also run **[NanoNusa Digital](https://nanonusa.com)**, a software studio I founded.
+Currently **Project Lead** of an Electronic Medical Record system running in production across **7 clinical units** at RSUD Langsa, coordinating 8+ developers. I also run **[Chelution](https://chelution.com)**, a software studio I founded.
 
 &nbsp;
 
