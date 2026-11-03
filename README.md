@@ -26,7 +26,7 @@ Currently **Project Lead** of an Electronic Medical Record system running in pro
 | **[SunCare Assistant](https://rachel.nanonusa.com/en/projects/suncare-assistant)** | UV-exposure companion with location-aware alerts | Next.js · Supabase · Twilio |
 | **[SIAPPINTAR](https://rachel.nanonusa.com/en/projects/siappintar-bp2mi-application)** | Pre-departure orientation system for Indonesian migrant workers (BP2MI × UGM) | Laravel · React |
 
-More at **[rachel.nanonusa.com](https://rachel.nanonusa.com)**
+More at **[rachel.chelution.com](https://rachel.chelution.com)**
 
 &nbsp;
 
